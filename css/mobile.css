@@ -1,0 +1,323 @@
+        @media (max-width:865px) {
+        * {
+            box-sizing: border-box;
+            margin: 0px;
+            padding: 0px;
+            transition-duration: 0.4s;
+            transition-property: all;
+        }
+
+        #medlife .navcon {
+            display: none;
+        }
+
+        #medlife .navcon1 {
+            display: none;
+            
+        }
+       
+
+        #logo {
+            width: 50%;
+            height: auto;
+        }
+
+        #medlife {
+            display: flex;
+            width: 100%;
+            height: auto;
+            justify-content: center;
+        }
+
+        #navbar ul .liii1 {
+            margin-left: 30%;
+        }
+
+        .shape1 {
+            width: 40px;
+            height: 500px;
+        }
+
+        .shape2 {
+            border-top: 500px solid #000E44;
+            border-right: 300px solid transparent;
+        }
+
+        .out {
+           display: none;
+        }
+
+        .intro {
+            width: 93%;
+            height: 60%;
+        }
+
+        #slider {
+            height: 500px;
+        }
+
+        .overlay1 h1 {
+            font-size: 30px;
+            width: 100%;
+        }
+
+        .overlay1 {
+            padding-left: 0px;
+            left: 10%;
+            width: 80%;
+
+        }
+
+        .overlay1 .forby {
+            padding: 3%;
+            padding-left: 6%;
+            padding-right: 6%;
+            font-size: 14px;
+            font-family: 'Inter', sans-serif;
+            font-family: 'Raleway', sans-serif;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bolder;
+            letter-spacing: 0.8px;
+            background-color: #040447;
+            border: none;
+            border-radius: 25px;
+            color: white;
+            margin-top: 8%;
+        }
+        #video123{
+            width: 120%;
+            height: 142%;
+        }
+        .scroll1 {
+            width: 100%;
+            margin-top: 5%;
+            font-family: 'Inter', sans-serif;
+            color: #848E9F;
+            font-size: 14px;
+        }
+
+        .phone {
+            width: 80%;
+            border-radius: 20px 20px 20px 20px;
+            margin-top: 40px;
+
+        }
+
+        .heart {
+            width: 80%;
+            border-radius: 20px 20px 20px 20px;
+            margin-top: 40px;
+            height: 520px;
+
+
+
+        }
+
+        .doctor {
+            width: 80%;
+            border-radius: 20px 20px 20px 20px;
+            margin-top: 40px;
+
+
+        }
+
+        #dupplehover {
+            height: 1600px;
+        }
+        .doctor .im2 {
+            position: absolute;
+            top: 350px;
+            right: 0px;
+            opacity: 0.3;
+            display: none;
+        }
+    
+        .infiniteoverlay {
+            height: 1900px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .letter {
+            justify-content: center;
+            width: 90%;
+
+        }
+
+        .gropdoctors {
+            width: 100%;
+        }
+
+        .gordoc {
+            width: 80%;
+            margin-left: 10%;
+            height: auto;
+
+        }
+
+        .gordoc1 {
+            top: 65%;
+            width: 45%;
+            left: 10%;
+        }
+
+        .word {
+            width: 49%;
+        }
+
+        .word .wowo {
+            width: 100%;
+        }
+
+        .doctor1 {
+            width: 80%;
+            margin-top: 10%;
+            margin-bottom: 0px;
+            margin-left: 1%;
+            height: 400px;
+
+
+        }
+
+        .doctor2 {
+            width: 80%;
+            margin-left: 1%;
+            margin-top: 10%;
+            height: 400px;
+            height: 400px;
+
+
+        }
+
+        .doctor3 {
+            width: 80%;
+            margin-left: 1%;
+            margin-top: 10%;
+            height: 400px;
+
+
+
+        }
+
+        #elem {
+            height: 4000px;
+        }
+
+        .line {
+            top: 89%;
+        }
+
+        .infection1 {
+            margin-top: 300px;
+            margin-left: 8%;
+        }
+
+        .bububu {
+            margin-left: 2%;
+            margin-bottom: 10%;
+
+        }
+
+        .lasta {
+            margin-left: 5%;
+            display: block;
+        }
+
+        .ashath {
+            height: 1800px;
+        }
+
+        .ashath .gropdoctors {
+
+            width: 90%;
+            height: auto;
+            margin: auto;
+            margin-top: -50px;
+
+        }
+        .inputbox1{
+            width: 94%;
+         }
+         .inputbox{
+            width: 94%;
+    
+         }
+         .select-box{
+            width: 94%;
+
+         }
+         .select-box1{
+            width: 94%;
+         } 
+         .second{
+            top: 55%;
+            height: 1690px;
+        }
+        .third{
+            height: 2500px;
+          }
+          .third .patiens {
+            display: flex;
+            width: 100%;
+            height: auto;
+            margin-top: 1700px;
+    
+        }
+        .clip {
+            padding: 0px;
+        }
+        .clip .hhhha{
+            width: 90%;
+        }
+        
+        .clip1 {
+            padding: 0px;
+        }
+        .clip1 .hhhha{
+            width: 90%;
+        }
+        .clip2 {
+            padding: 0px;
+        }
+        .clip2 .hhhha{
+            width: 90%;
+        }
+        
+        .clip3 {
+            padding: 0px;
+        }
+        .clip3 .hhhha{
+            width: 90%;
+        }
+        .letter .word{
+            margin-left: 2%    ;
+        }
+        .ashath .letter .nonn{
+            width: 18%;
+        }
+        #ofbababa{
+            height: 2000px;
+        }
+        #subscribe .phphph h3 {
+            font-size: 20px;}
+            .div1{
+                width: 95%;
+                margin-top: 10%;
+             }
+             .div2{
+                width: 95%;
+                margin-top: 10%;
+        
+             }
+             .div3{
+                width: 95%;
+                margin-top: 10%;
+        
+             }
+             .div4{
+                width: 95%;
+                margin-top: 10%;
+        
+             }
+    
+    }

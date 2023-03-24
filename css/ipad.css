@@ -1,0 +1,327 @@
+@keyframes ghost {
+    form {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 1170px) {
+    * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+        transition-duration: 0.4s;
+        transition-property: all;
+    }
+
+    .appointment {
+        display: none;
+    }
+
+    #navbar ul .lii {
+        display: none;
+    }
+
+    #navbar ul .lii5 {
+        display: none;
+    }
+
+    #navbar ul .liii1 {
+        margin-left: 70%;
+    }
+
+    .holder {
+        display: block;
+        width: 20%;
+    }
+
+    .holder input[type="checkbox"] {
+        -webkit-appearance: none;
+        appearance: none;
+    }
+
+    .holder label {
+        position: absolute;
+        left: 30px;
+        top: 20px;
+        z-index: 2;
+    }
+
+    .holder label:before {
+        font-family: 'FontAwesome';
+        content: '\f0c9';
+        color: white;
+        font-size: 35px;
+        padding: 5px;
+        padding-left: 15px;
+        width: 45px;
+        height: 40px;
+        background-color: #00E5CC;
+        display: inline-block;
+        border-radius: 2px;
+        padding-top: 10px;
+        cursor: pointer;
+    }
+    .phone {
+        width: 96%;
+        border-radius: 0px 0px 20px 20px;
+        margin-top: 0px;
+
+    }
+
+    .heart {
+        width: 48%;
+        height: 520px;
+        border-radius: 0px 20px 0px 0px;
+
+    }
+
+    .doctor {
+        width: 48%;
+        height: 520px;
+        border-radius: 20px 0px 0px 0px;
+
+    }
+    .doctor .im2 {
+        position: absolute;
+        top: 350px;
+        right: 0px;
+        opacity: 0.3;
+        display: none;
+    }
+
+    .doctor:hover .im2 {
+        display: block;
+        animation: fadeInUp1 linear alternate;
+        animation-duration: 0.4s;
+        width: 120px;}
+
+    #dupplehover {
+        height: 1000px;
+    }
+    .khlas{
+        margin-left: 6.7%;
+    }
+    .shape1 {
+        width: 250px;
+    }
+
+    .shape2 {
+        border-top: 700px solid #000E44;
+        border-right: 300px solid transparent;
+    }
+
+    .infiniteoverlay {
+        height: 1900px;
+    }
+
+    .letter {
+        justify-content: center;
+        width: 90%;
+
+    }
+
+    .gropdoctors {
+        width: 100%;
+    }
+
+    .gordoc {
+        width: 80%;
+        margin-left: 10%;
+        height: auto;
+
+    }
+
+    .gordoc1 {
+        top: 72%;
+        width: 45%;
+        left: 10%;
+    }
+
+    #elem {
+        height: 1800px;
+    }
+
+    .doctor1 {
+        width: 45%;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 1%;
+
+    }
+
+    .doctor2 {
+        width: 45%;
+        margin-top: 0px;
+        margin-left: 1%;
+
+    }
+
+    .doctor3 {
+        width: 45%;
+        margin-left: 1%;
+
+        margin-top: 0px;
+
+    }
+
+    .line {
+        top: 84%;
+    }
+
+    .infection1 {
+        margin-top: 100px;
+        margin-left: 2%;
+    }
+
+    .bububu {
+        margin-left: 5%;
+    }
+
+    .ashath {
+        height: 2100px;
+    }
+
+    .ashath .letter {
+        width: 90%;
+        margin: auto;
+        margin-top: 6%;
+
+    }
+
+    .ashath .gropdoctors {
+
+        width: 90%;
+        height: auto;
+        margin: auto;
+        margin-top: -200px;
+    }
+
+    .ashath .gordoc1 {
+        top: 80%;
+    }
+    #infiniteabsolute{
+        height: 1700px;
+    }
+    .coverit{
+        height: 1000px;
+
+    }
+    .first{
+        height: 1000px;
+    }
+    .first .letter1 {
+        width: 90%;
+        margin-bottom: 5%;
+    }
+    .first .d4iv {
+        width: 100%;
+    }
+    .second{
+        top: 50%;
+        height: 1250px;
+    }
+    .second .life {
+        width: 100%;
+        height: 50%;
+        border-radius: 10px 10px 0px 0px;
+
+    }
+    .second .green{
+        border-radius: 10px 10px 0px 0px;
+
+    }
+    .second .format{
+        width: 100%;
+        height: 50%;
+        border-radius: 0px 0px 10px 10px;
+
+    }
+    .third{
+        height: 1650px;
+      }
+    .third .patiens {
+        display: flex;
+        width: 100%;
+        height: auto;
+        margin-top: 1200px;
+
+    }
+
+    .third .patiens .nocnoc {
+        font-size: 80px;
+        color: #00E5CC;
+        margin-left: 15%;
+        width: 15%;
+
+    }
+
+    .third .patiens .ph2ph2 {
+        width: 70%;
+        text-align: center;
+
+
+    }
+
+    .third .patiens .ph2ph2 p {
+        color: #00E5CC;
+        font-family: 'Inter', sans-serif;
+        font-weight: bold;
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin-bottom: 5%;
+    }
+    #video123{
+        border-radius:10px ;
+        width: 135%;
+        height: 127%;
+        position: absolute;
+        top: -29px;
+        left: -51px;
+        
+    }
+    .third .patiens .ph2ph2 h2 {
+        color: #000E44;
+        font-family: 'Inter', sans-serif;
+        font-weight: bolder;
+        font-size: 30px;
+        letter-spacing: 1px;
+    }
+    .nihaytalathab{
+        width: 95%;
+        margin-bottom: -12%;
+     }
+     .beforesubscribe{
+        margin-top:5%;
+        width: 100%;
+     }
+     .annug{
+        margin-top: 0;
+        width: 100%;
+        margin-left: 10%;
+
+     }
+     .div1{
+        width: 45%;
+        margin-top: 3%;
+     }
+     .div2{
+        width: 45%;
+        margin-top: 3%;
+
+     }
+     .div3{
+        width: 45%;
+        margin-top: 3%;
+
+     }
+     .div4{
+        width: 45%;
+        margin-top: 3%;
+
+     }
+    
+}
